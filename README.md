@@ -6,7 +6,7 @@ This project can be easily build using other technologies such as clojure, if re
 
 ## Live Version
 
-A live version of this project can be found at the following URL: http://ec2-3-87-61-115.compute-1.amazonaws.com. It is hosted on AWS on EC2.
+A live version of this project can be found at the following URL: https://loanpro.everydevcarry.io (own domain to use https). It is hosted on AWS on EC2.
 
 **Credentials:**
 
